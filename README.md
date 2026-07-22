@@ -1,7 +1,13 @@
 \# Cabinet Alarm System 🔒
 
+## Project Preview
 
+![Cabinet Alarm](images/cabinet_alarm.jpg)
 
+## Demo Video
+
+[▶ Watch the demo video](videos/demo.mp4)
+  
 An Arduino-based cabinet security alarm system designed to detect unauthorized cabinet opening using an HC-SR04 ultrasonic sensor.
 
 
